@@ -1,4 +1,3 @@
-# JakeJMattson
 
-[<img alt="GitHub" width="30px" src="https://simpleicons.org/icons/github.svg" />][https://github.com/JakeJMattson]
-[<img alt="GitLab" width="30px" src="https://simpleicons.org/icons/gitlab.svg" />][https://gitlab.com/JakeJMattson]
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeJMattson&hide=prs,issues&count_private=true&show_icons=true&theme=react)](https://github.com/jakejmattson/)
