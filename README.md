@@ -3,10 +3,10 @@ Welcome to my code collection. My projects are mostly things I find interesting 
 <h1 align="center">My Favorite Things</h1>
 
 <p align="center">
-  <a href="https://github.com/DiscordKt/DiscordKt">
+  <a href="https://jakejmattson.github.io/TouchControl/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jakejmattson&repo=TouchControl&theme=react"/>
   </a>
-  <a href="https://github.com/discordkt/discordkt">
+  <a href="https://github.com/DiscordKt/DiscordKt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=discordkt&repo=discordkt&theme=react"/>
   </a>
   <a href="https://github.com/JakeJMattson/FacialRecognition">
@@ -18,6 +18,7 @@ Welcome to my code collection. My projects are mostly things I find interesting 
 </p>
 
 <h1 align="center">Stats</h1>
+
 <p align="center">
   <a><img src="https://github-readme-stats.vercel.app/api?username=JakeJMattson&hide=prs,issues&count_private=true&show_icons=true&theme=react"/></a>
   <br/><br/>
