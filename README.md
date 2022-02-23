@@ -22,12 +22,6 @@ Welcome to my code collection. My projects are mostly things I find interesting 
   </a>
 </p>
 
-<style>
-.logo {
-    width:150px;
-}
-</style>
-
 <h1 align="center">Personal Links</h1>
 
 <table align="center">
@@ -37,12 +31,12 @@ Welcome to my code collection. My projects are mostly things I find interesting 
     <th>Contact Me</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/JakeJMattson"><img src="github.svg" class="logo"></a></td>
-    <td><a href="https://www.buymeacoffee.com/JakeJMattson"><img src="bmc.svg" class="logo"></a></td>
-    <td><a href="https://discordapp.com/users/254786431656919051/"><img src="discord.svg" class="logo"></a></td>
+    <td><a href="https://github.com/JakeJMattson"><img src="github.svg" width="150"></a></td>
+    <td><a href="https://www.buymeacoffee.com/JakeJMattson"><img src="bmc.svg" width="150"></a></td>
+    <td><a href="https://discordapp.com/users/254786431656919051/"><img src="discord.svg" width="150"></a></td>
   </tr>
   <tr>
-    <td><a href="https://gitlab.com/JakeJMattson"><img src="gitlab.svg" class="logo"></a></td>
-    <td><a href="https://paypal.me/JakeJMattson"><img src="paypal.svg" class="logo"></a></td>
-    <td><a href="mailto:jakejmattson@gmail.com"><img src="gmail.svg" class="logo"></a></td>
+    <td><a href="https://gitlab.com/JakeJMattson"><img src="gitlab.svg" width="150"></a></td>
+    <td><a href="https://paypal.me/JakeJMattson"><img src="paypal.svg" width="150"></a></td>
+    <td><a href="mailto:jakejmattson@gmail.com"><img src="gmail.svg" width="150"></a></td>
 </table>
