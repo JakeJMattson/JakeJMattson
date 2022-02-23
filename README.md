@@ -1,5 +1,10 @@
 Welcome to my code collection. My projects are mostly things I find interesting or fun to create. I love to share my passion with others via tutoring and on Discord. Feel free to message me [@JakeyWakey#1569](https://discordapp.com/users/254786431656919051/) if you want to chat!
 
+<p align="center">
+  <a><img src="https://github-readme-stats.vercel.app/api?username=JakeJMattson&hide=prs,issues&count_private=true&show_icons=true&theme=react"/></a>
+ </p>
+
+
 <h1 align="center">My Favorite Things</h1>
 
 <p align="center">
@@ -17,17 +22,27 @@ Welcome to my code collection. My projects are mostly things I find interesting 
   </a>
 </p>
 
-<h1 align="center">Stats</h1>
+<style>
+.logo {
+    width:150px;
+}
+</style>
 
-<p align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=JakeJMattson&hide=prs,issues&count_private=true&show_icons=true&theme=react"/></a>
-  <br/><br/>
-  <a href="https://github.com/JakeJMattson"><img height="30" src="github.svg"></a>
-  <a href="https://gitlab.com/JakeJMattson"><img height="30" src="gitlab.svg"></a>
-  <a href="https://hub.docker.com/u/jakejmattson"><img height="30" src="docker.svg"></a>
-  <a href="https://discordapp.com/users/254786431656919051/"><img height="30" src="discord.svg"></a>
-  <a href="mailto:jakejmattson@gmail.com"><img height="30" src="mail.svg"></a>
-  <br/><br/>
-  <a href="https://commerce.coinbase.com/checkout/3b16a750-8fbe-4f1b-9774-1ea44102c64e"><img height="30" src="bitcoin.svg"></a>
-  <a href="https://paypal.me/JakeJMattson"><img height="30" src="paypal.svg"></a>
- </p>
+<h1 align="center">Personal Links</h1>
+
+<table align="center">
+  <tr>
+    <th>Follow Me</th>
+    <th>Support Me</th>
+    <th>Contact Me</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/JakeJMattson"><img src="github.svg" class="logo"></a></td>
+    <td><a href="https://www.buymeacoffee.com/JakeJMattson"><img src="bmc.svg" class="logo"></a></td>
+    <td><a href="https://discordapp.com/users/254786431656919051/"><img src="discord.svg" class="logo"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://gitlab.com/JakeJMattson"><img src="gitlab.svg" class="logo"></a></td>
+    <td><a href="https://paypal.me/JakeJMattson"><img src="paypal.svg" class="logo"></a></td>
+    <td><a href="mailto:jakejmattson@gmail.com"><img src="gmail.svg" class="logo"></a></td>
+</table>
